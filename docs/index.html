@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sydney International Regatta Centre Water Quality Report Card</title>
+    <meta name="description" content="Proof-of-concept recreational water quality dashboard for Sydney International Regatta Centre.">
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" defer></script>
+    <script src="assets/js/app.js" defer></script>
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Main navigation">
+        <a class="brand" href="#overview">
+          <span class="brand-mark">SIRC</span>
+          <span>Water Quality Report Card</span>
+        </a>
+        <div class="nav-links">
+          <a href="#overview">Overview</a>
+          <a href="#trends">Trends</a>
+          <a href="#sites">Sites</a>
+          <a href="#downloads">Downloads</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section id="overview" class="hero-band">
+        <div class="hero-content">
+          <p class="kicker">Proof of concept | Placeholder data</p>
+          <h1>Sydney International Regatta Centre recreational water quality</h1>
+          <p class="hero-copy">
+            A public-facing report card concept for tracking swimming, rowing, and event-readiness indicators across the Regatta Centre lakes.
+          </p>
+        </div>
+        <aside class="grade-panel" aria-label="Current report card summary">
+          <div>
+            <span class="panel-label">Overall grade</span>
+            <strong class="grade">B</strong>
+            <span class="grade-text">Generally suitable</span>
+          </div>
+          <div class="status-list">
+            <span><i class="status-dot good"></i> Chlorophyll-a stable</span>
+            <span><i class="status-dot watch"></i> Enterococci watch after rain</span>
+            <span><i class="status-dot good"></i> Dissolved oxygen acceptable</span>
+          </div>
+        </aside>
+      </section>
+
+      <section class="overview-grid" aria-label="Water quality scorecards">
+        <article class="score-card">
+          <span class="score-label">Current status</span>
+          <strong>Open</strong>
+          <p>Suitable for recreation under dry-weather conditions.</p>
+        </article>
+        <article class="score-card">
+          <span class="score-label">Latest sample</span>
+          <strong>31 Aug 2026</strong>
+          <p>Weekly monitoring placeholder record for demonstration.</p>
+        </article>
+        <article class="score-card">
+          <span class="score-label">Rainfall flag</span>
+          <strong>Low</strong>
+          <p>No simulated rainfall trigger in the previous 72 hours.</p>
+        </article>
+        <article class="score-card">
+          <span class="score-label">Public advice</span>
+          <strong>Check signs</strong>
+          <p>Always follow venue notices during events and after storms.</p>
+        </article>
+      </section>
+
+      <section id="trends" class="content-band">
+        <div class="section-heading">
+          <p class="kicker">Water Quality Trends</p>
+          <h2>Interactive trend plots with guideline context</h2>
+          <p>
+            Placeholder weekly data show how historical trends, rolling averages, and recreational guideline thresholds can be communicated.
+          </p>
+        </div>
+
+        <div class="control-row" aria-label="Site selector">
+          <label for="siteSelect">Monitoring site</label>
+          <select id="siteSelect"></select>
+        </div>
+
+        <div class="chart-grid">
+          <article class="chart-card">
+            <h3>Chlorophyll-a</h3>
+            <div id="chlorophyllChart" class="plot" role="img" aria-label="Chlorophyll-a trend plot"></div>
+          </article>
+          <article class="chart-card">
+            <h3>Dissolved oxygen</h3>
+            <div id="oxygenChart" class="plot" role="img" aria-label="Dissolved oxygen trend plot"></div>
+          </article>
+          <article class="chart-card wide">
+            <h3>Enterococci</h3>
+            <div id="enterococciChart" class="plot" role="img" aria-label="Enterococci bar chart"></div>
+          </article>
+        </div>
+      </section>
+
+      <section id="sites" class="content-band muted-band">
+        <div class="section-heading">
+          <p class="kicker">Monitoring Sites</p>
+          <h2>Site status across the lake system</h2>
+          <p>
+            The first version uses a schematic map so the site-selection behaviour works on GitHub Pages without a GIS server.
+          </p>
+        </div>
+
+        <div class="site-layout">
+          <div class="map-panel" aria-label="Schematic map of monitoring sites">
+            <button class="site-marker active" data-site="Competition Lake" style="left: 62%; top: 36%;">CL</button>
+            <button class="site-marker" data-site="Warm Up Lake" style="left: 35%; top: 60%;">WL</button>
+            <button class="site-marker" data-site="Final Basin" style="left: 76%; top: 68%;">FB</button>
+            <span class="lake-shape lake-main"></span>
+            <span class="lake-shape lake-secondary"></span>
+          </div>
+          <div class="site-detail">
+            <span class="score-label">Selected site</span>
+            <h3 id="selectedSiteName">Competition Lake</h3>
+            <p id="selectedSiteDescription">
+              Main rowing course monitoring location with routine microbial, algal, and physico-chemical sampling.
+            </p>
+            <dl>
+              <div>
+                <dt>Latest grade</dt>
+                <dd id="selectedSiteGrade">B</dd>
+              </div>
+              <div>
+                <dt>Primary watch item</dt>
+                <dd id="selectedSiteWatch">Enterococci after rainfall</dd>
+              </div>
+            </dl>
+          </div>
+        </div>
+      </section>
+
+      <section id="downloads" class="content-band">
+        <div class="section-heading">
+          <p class="kicker">Report Card Downloads</p>
+          <h2>Weekly and monthly public report cards</h2>
+          <p>
+            Example links are wired to the sample report card folder. Future generated PDFs can be added using the same naming pattern.
+          </p>
+        </div>
+        <div class="download-grid">
+          <a class="download-card" href="report_cards/weekly/2026-08-28-sirc-weekly-report-card.pdf" download>
+            <span>Weekly report card</span>
+            <strong>28 Aug 2026</strong>
+            <small>PDF placeholder</small>
+          </a>
+          <a class="download-card" href="report_cards/monthly/2026-08-sirc-monthly-report-card.pdf" download>
+            <span>Monthly report card</span>
+            <strong>August 2026</strong>
+            <small>PDF placeholder</small>
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>Proof-of-concept dashboard for demonstration only. Replace placeholder data before public release.</p>
+    </footer>
+  </body>
+</html>

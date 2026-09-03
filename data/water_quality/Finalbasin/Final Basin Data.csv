@@ -1,0 +1,1333 @@
+﻿Location ID,Observed Property ID,Analyzed DateTime,Depth,Depth Unit,Data Classification,Result Value,Result Unit,Lab: MDL,Latitude,Longitude
+FB,Total suspended solids,2022-11-14 12:00:00.000+10:00,,,LAB,7,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2022-11-14 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2022-11-14 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2022-11-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2022-11-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2022-11-14 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2022-11-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2022-11-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2022-11-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2022-11-14 18:55:00.000+10:00,,,LAB,12680,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2022-11-14 18:55:00.000+10:00,,,LAB,0.707,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2022-11-14 18:55:00.000+10:00,,,LAB,0.004,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2022-11-14 18:55:00.000+10:00,,,LAB,553,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2022-11-14 18:55:00.000+10:00,,,LAB,10241,cells/ml,,-33.7272,150.692296
+FB,Pseudanabaena_Biovolume,2022-11-14 18:55:00.000+10:00,,,LAB,0.009,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2022-11-14 18:55:00.000+10:00,,,LAB,0.423,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2022-11-14 18:55:00.000+10:00,,,LAB,0.739,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2022-11-14 18:55:00.000+10:00,,,LAB,20.1,mg/m^3,,-33.7272,150.692296
+FB,Total Cyanobacteria,2022-11-14 18:55:00.000+10:00,,,LAB,56310,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2022-11-14 18:55:00.000+10:00,,,LAB,0.019,mm3/l,,-33.7272,150.692296
+FB,Pseudanabaena_Cell count,2022-11-14 18:55:00.000+10:00,,,LAB,975,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2022-11-14 18:55:00.000+10:00,,,LAB,2435,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2022-11-14 18:55:00.000+10:00,,,LAB,200,cfu/100ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2022-11-14 18:55:00.000+10:00,,,LAB,0.284,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2022-11-14 18:55:00.000+10:00,,,LAB,42102,cells/ml,,-33.7272,150.692296
+FB,Nitrite as N,2022-11-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2022-11-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2022-11-28 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2022-11-28 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2022-11-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2022-11-28 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2022-11-28 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2022-11-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2022-11-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Merismopedia_Cell count,2022-11-28 18:23:00.000+10:00,,,LAB,5786,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2022-11-28 18:23:00.000+10:00,,,LAB,0.998,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2022-11-28 18:23:00.000+10:00,,,LAB,7070,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2022-11-28 18:23:00.000+10:00,,,LAB,27240,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2022-11-28 18:23:00.000+10:00,,,LAB,14380,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2022-11-28 18:23:00.000+10:00,,,LAB,1576,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2022-11-28 18:23:00.000+10:00,,,LAB,1.05,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2022-11-28 18:23:00.000+10:00,,,LAB,0.006,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2022-11-28 18:23:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2022-11-28 18:23:00.000+10:00,,,LAB,12.7,mg/m^3,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2022-11-28 18:23:00.000+10:00,,,LAB,0.043,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2022-11-28 18:23:00.000+10:00,,,LAB,0.048,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2022-11-28 18:23:00.000+10:00,,,LAB,0.955,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2022-11-28 18:23:00.000+10:00,,,LAB,5495,cells/ml,,-33.7272,150.692296
+FB,Nitrite as N,2022-12-12 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2022-12-12 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2022-12-12 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2022-12-12 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2022-12-12 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2022-12-12 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2022-12-12 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2022-12-12 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2022-12-12 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2022-12-12 16:55:00.000+10:00,,,LAB,0.006,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2022-12-12 16:55:00.000+10:00,,,LAB,830,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2022-12-12 16:55:00.000+10:00,,,LAB,5,cfu/100ml,,-33.7272,150.692296
+FB,Synechococcus cf_Cell count,2022-12-12 16:55:00.000+10:00,,,LAB,277,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2022-12-12 16:55:00.000+10:00,,,LAB,0.707,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2022-12-12 16:55:00.000+10:00,,,LAB,3538,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2022-12-12 16:55:00.000+10:00,,,LAB,7.1,mg/m^3,,-33.7272,150.692296
+FB,Dolichospermum_Biovolume,2022-12-12 16:55:00.000+10:00,,,LAB,0.05,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2022-12-12 16:55:00.000+10:00,,,LAB,86740,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum_Cell count,2022-12-12 16:55:00.000+10:00,,,LAB,312,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2022-12-12 16:55:00.000+10:00,,,LAB,3850,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2022-12-12 16:55:00.000+10:00,,,LAB,81785,cells/ml,,-33.7272,150.692296
+FB,Synechococcus cf_Biovolume,2022-12-12 16:55:00.000+10:00,,,LAB,0.001,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2022-12-12 16:55:00.000+10:00,,,LAB,0.664,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2022-12-12 16:55:00.000+10:00,,,LAB,0.614,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2022-12-12 16:55:00.000+10:00,,,LAB,0.036,mm3/l,,-33.7272,150.692296
+FB,Total suspended solids,2023-01-09 12:00:00.000+10:00,,,LAB,10,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-01-09 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-01-09 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-01-09 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-01-09 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-01-09 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-01-09 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-01-09 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-01-09 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-01-09 19:06:00.000+10:00,,,LAB,2430,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-01-09 19:06:00.000+10:00,,,LAB,0.082,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-01-09 19:06:00.000+10:00,,,LAB,6.9,mg/m^3,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-01-09 19:06:00.000+10:00,,,LAB,2434,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-01-09 19:06:00.000+10:00,,,LAB,36880,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-01-09 19:06:00.000+10:00,,,LAB,0.067,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-01-09 19:06:00.000+10:00,,,LAB,34442,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-01-09 19:06:00.000+10:00,,,LAB,0.015,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2023-01-09 19:06:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-01-09 19:06:00.000+10:00,,,LAB,0.067,mm3/l,,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-01-23 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2023-01-23 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-01-23 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-01-23 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-01-23 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-01-23 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2023-01-23 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-01-23 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-01-23 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Enterococci,2023-01-23 15:48:00.000+10:00,,,LAB,10000,cfu/100ml,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Cell count,2023-01-23 15:48:00.000+10:00,,,LAB,278,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-01-23 15:48:00.000+10:00,,,LAB,137200,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-01-23 15:48:00.000+10:00,,,LAB,0.211,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-01-23 15:48:00.000+10:00,,,LAB,0.183,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum cf planctonicum/smithii_Cell count,2023-01-23 15:48:00.000+10:00,,,LAB,173,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-01-23 15:48:00.000+10:00,,,LAB,0.312,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-01-23 15:48:00.000+10:00,,,LAB,0.058,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-01-23 15:48:00.000+10:00,,,LAB,6582,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum cf planctonicum/smithii_Biovolume,2023-01-23 15:48:00.000+10:00,,,LAB,0.043,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-01-23 15:48:00.000+10:00,,,LAB,6860,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-01-23 15:48:00.000+10:00,,,LAB,130193,cells/ml,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Biovolume,2023-01-23 15:48:00.000+10:00,,,LAB,0.028,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-01-23 15:48:00.000+10:00,,,LAB,11.3,mg/m^3,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-02-06 18:14:00.000+10:00,,,LAB,0.048,mm3/l,,-33.7272,150.692296
+FB,Raphidiopsis raciborskii_Biovolume,2023-02-06 18:14:00.000+10:00,,,LAB,0.011,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-02-06 18:14:00.000+10:00,,,LAB,0.247,mm3/l,,-33.7272,150.692296
+FB,Pseudanabaena_Cell count,2023-02-06 18:14:00.000+10:00,,,LAB,173,cells/ml,,-33.7272,150.692296
+FB,Sphaerospermopsis aphanizomenoides_Cell count,2023-02-06 18:14:00.000+10:00,,,LAB,2720,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2023-02-06 18:14:00.000+10:00,,,LAB,0.084,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-02-06 18:14:00.000+10:00,,,LAB,0.001,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-02-06 18:14:00.000+10:00,,,LAB,111900,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2023-02-06 18:14:00.000+10:00,,,LAB,1561,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-02-06 18:14:00.000+10:00,,,LAB,107030,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2023-02-06 18:14:00.000+10:00,,,LAB,3,cfu/100ml,,-33.7272,150.692296
+FB,Pseudanabaena_Biovolume,2023-02-06 18:14:00.000+10:00,,,LAB,0.001,mm3/l,,-33.7272,150.692296
+FB,Sphaerospermopsis aphanizomenoides_Biovolume,2023-02-06 18:14:00.000+10:00,,,LAB,0.102,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-02-06 18:14:00.000+10:00,,,LAB,3.4,mg/m^3,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-02-06 18:14:00.000+10:00,,,LAB,69,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-02-06 18:14:00.000+10:00,,,LAB,451,cells/ml,,-33.7272,150.692296
+FB,Raphidiopsis raciborskii_Cell count,2023-02-06 18:14:00.000+10:00,,,LAB,382,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-02-06 18:14:00.000+10:00,,,LAB,0.012,mm3/l,,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-02-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-02-20 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-02-20 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-02-20 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-02-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-02-20 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-02-20 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-02-20 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2023-02-20 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Aphanizomenonaceae_Biovolume,2023-02-20 17:01:00.000+10:00,,,LAB,0.068,mm3/l,,-33.7272,150.692296
+FB,Raphidiopsis raciborskii_Cell count,2023-02-20 17:01:00.000+10:00,,,LAB,6417,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-02-20 17:01:00.000+10:00,,,LAB,186790,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-02-20 17:01:00.000+10:00,,,LAB,0.109,mm3/l,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Cell count,2023-02-20 17:01:00.000+10:00,,,LAB,661,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-02-20 17:01:00.000+10:00,,,LAB,0.373,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2023-02-20 17:01:00.000+10:00,,,LAB,1106,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum_Cell count,2023-02-20 17:01:00.000+10:00,,,LAB,52,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-02-20 17:01:00.000+10:00,,,LAB,5,mg/m^3,,-33.7272,150.692296
+FB,Raphidiopsis raciborskii_Biovolume,2023-02-20 17:01:00.000+10:00,,,LAB,0.188,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2023-02-20 17:01:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Dolichospermum_Biovolume,2023-02-20 17:01:00.000+10:00,,,LAB,0.008,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-02-20 17:01:00.000+10:00,,,LAB,0.084,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2023-02-20 17:01:00.000+10:00,,,LAB,0.009,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-02-20 17:01:00.000+10:00,,,LAB,199000,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-02-20 17:01:00.000+10:00,,,LAB,3954,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-02-20 17:01:00.000+10:00,,,LAB,0.466,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-02-20 17:01:00.000+10:00,,,LAB,11080,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-03-05 +10:00,,,LAB,2840,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-03-05 +10:00,,,LAB,2157,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-03-05 +10:00,,,LAB,691,cells/ml,,-33.7272,150.692296
+FB,Microcystis species 2_Biovolume,2023-03-05 +10:00,,,LAB,0.058,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-03-05 +10:00,,,LAB,4500,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-03-05 +10:00,,,LAB,0.118,mm3/l,,-33.7272,150.692296
+FB,Pseudanabaena_Biovolume,2023-03-05 +10:00,,,LAB,0.009,mm3/l,,-33.7272,150.692296
+FB,Pseudanabaena_Cell count,2023-03-05 +10:00,,,LAB,968,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-03-05 +10:00,,,LAB,0.127,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-03-05 +10:00,,,LAB,0.06,mm3/l,,-33.7272,150.692296
+FB,Microcystis species 2_Cell count,2023-03-05 +10:00,,,LAB,684,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-03-05 +10:00,,,LAB,72.9,mg/m^3,,-33.7272,150.692296
+FB,Enterococci,2023-03-05 +10:00,,,LAB,6,cfu/100ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-03-05 +10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-03-06 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-03-06 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-03-06 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-03-06 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2023-03-06 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-03-06 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-03-06 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-03-06 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2023-03-06 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2023-03-06 18:07:00.000+10:00,,,LAB,0.024,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-03-06 18:07:00.000+10:00,,,LAB,0.185,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-03-06 18:07:00.000+10:00,,,LAB,0.019,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2023-03-06 18:07:00.000+10:00,,,LAB,2950,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-03-06 18:07:00.000+10:00,,,LAB,0.019,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-03-06 18:07:00.000+10:00,,,LAB,5.1,mg/m^3,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-03-06 18:07:00.000+10:00,,,LAB,691,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-03-06 18:07:00.000+10:00,,,LAB,318200,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2023-03-06 18:07:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-03-06 18:07:00.000+10:00,,,LAB,314559,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-03-06 18:07:00.000+10:00,,,LAB,691,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-03-06 18:07:00.000+10:00,,,LAB,0.142,mm3/l,,-33.7272,150.692296
+FB,Nitrate as N,2023-03-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-03-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-03-20 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-03-20 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-03-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-03-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-03-20 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-03-20 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2023-03-20 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-03-20 18:24:00.000+10:00,,,LAB,0.054,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2023-03-20 18:24:00.000+10:00,,,LAB,1283,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-03-20 18:24:00.000+10:00,,,LAB,121316,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2023-03-20 18:24:00.000+10:00,,,LAB,2185,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-03-20 18:24:00.000+10:00,,,LAB,10.2,mg/m^3,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2023-03-20 18:24:00.000+10:00,,,LAB,0.118,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-03-20 18:24:00.000+10:00,,,LAB,125100,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2023-03-20 18:24:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Cell count,2023-03-20 18:24:00.000+10:00,,,LAB,312,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-03-20 18:24:00.000+10:00,,,LAB,1600,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2023-03-20 18:24:00.000+10:00,,,LAB,0.222,mm3/l,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Biovolume,2023-03-20 18:24:00.000+10:00,,,LAB,0.032,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-03-20 18:24:00.000+10:00,,,LAB,0.426,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-03-20 18:24:00.000+10:00,,,LAB,0.254,mm3/l,,-33.7272,150.692296
+FB,Nitrate as N,2023-04-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-04-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-04-03 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-04-03 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-04-03 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2023-04-03 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-04-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-04-03 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-04-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Enterococci,2023-04-03 18:04:00.000+10:00,,,LAB,3,cfu/100ml,,-33.7272,150.692296
+FB,Snowella_Cell count,2023-04-03 18:04:00.000+10:00,,,LAB,937,cells/ml,,-33.7272,150.692296
+FB,Microcystis species 2_Cell count,2023-04-03 18:04:00.000+10:00,,,LAB,629,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-04-03 18:04:00.000+10:00,,,LAB,5558,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2023-04-03 18:04:00.000+10:00,,,LAB,1231,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-04-03 18:04:00.000+10:00,,,LAB,0.021,mm3/l,,-33.7272,150.692296
+FB,Pseudanabaena_Cell count,2023-04-03 18:04:00.000+10:00,,,LAB,87,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-04-03 18:04:00.000+10:00,,,LAB,0.301,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-04-03 18:04:00.000+10:00,,,LAB,0.154,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-04-03 18:04:00.000+10:00,,,LAB,27.8,mg/m^3,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-04-03 18:04:00.000+10:00,,,LAB,55590,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-04-03 18:04:00.000+10:00,,,LAB,47149,cells/ml,,-33.7272,150.692296
+FB,Microcystis species 2_Biovolume,2023-04-03 18:04:00.000+10:00,,,LAB,0.053,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-04-03 18:04:00.000+10:00,,,LAB,6190,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-04-03 18:04:00.000+10:00,,,LAB,0.207,mm3/l,,-33.7272,150.692296
+FB,Pseudanabaena_Biovolume,2023-04-03 18:04:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2023-04-03 18:04:00.000+10:00,,,LAB,0.066,mm3/l,,-33.7272,150.692296
+FB,Snowella_Biovolume,2023-04-03 18:04:00.000+10:00,,,LAB,0.007,mm3/l,,-33.7272,150.692296
+FB,Total suspended solids,2023-04-17 12:00:00.000+10:00,,,LAB,9,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-04-17 12:00:00.000+10:00,,,LAB,0.9,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-04-17 12:00:00.000+10:00,,,LAB,0.07,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-04-17 12:00:00.000+10:00,,,LAB,0.9,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2023-04-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-04-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-04-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-04-17 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-04-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-04-17 16:33:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-04-17 16:33:00.000+10:00,,,LAB,4740,cells/ml,,-33.7272,150.692296
+FB,Microcystis species 2_Biovolume,2023-04-17 16:33:00.000+10:00,,,LAB,0.042,mm3/l,,-33.7272,150.692296
+FB,Microcystis species 2_Cell count,2023-04-17 16:33:00.000+10:00,,,LAB,498,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-04-17 16:33:00.000+10:00,,,LAB,0.09,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-04-17 16:33:00.000+10:00,,,LAB,0.132,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-04-17 16:33:00.000+10:00,,,LAB,3770,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-04-17 16:33:00.000+10:00,,,LAB,0.132,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2023-04-17 16:33:00.000+10:00,,,LAB,2,cfu/100ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-04-17 16:33:00.000+10:00,,,LAB,3270,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-04-17 16:33:00.000+10:00,,,LAB,968,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-04-17 16:33:00.000+10:00,,,LAB,60.3,mg/m^3,,-33.7272,150.692296
+FB,Nitrite as N,2023-05-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-05-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-05-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-05-03 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-05-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-05-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-05-03 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-05-03 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2023-05-03 12:00:00.000+10:00,,,LAB,11,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-06-05 12:00:00.000+10:00,,,LAB,0.4,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2023-06-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-06-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-06-05 12:00:00.000+10:00,,,LAB,0.4,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2023-06-05 12:00:00.000+10:00,,,LAB,5,mg/L,5,-33.7272,150.692296
+FB,Ammonia as N,2023-06-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-06-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-06-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-06-05 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Snowella_Biovolume,2023-06-05 17:26:00.000+10:00,,,LAB,0.006,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-06-05 17:26:00.000+10:00,,,LAB,1106,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-06-05 17:26:00.000+10:00,,,LAB,0.046,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-06-05 17:26:00.000+10:00,,,LAB,0.046,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2023-06-05 17:26:00.000+10:00,,,LAB,3,cfu/100ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-06-05 17:26:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-06-05 17:26:00.000+10:00,,,LAB,1660,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-06-05 17:26:00.000+10:00,,,LAB,27.6,mg/m^3,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-06-05 17:26:00.000+10:00,,,LAB,1659,cells/ml,,-33.7272,150.692296
+FB,Snowella_Cell count,2023-06-05 17:26:00.000+10:00,,,LAB,763,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-06-05 17:26:00.000+10:00,,,LAB,0.052,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-06-05 17:26:00.000+10:00,,,LAB,3530,cells/ml,,-33.7272,150.692296
+FB,Total suspended solids,2023-07-03 12:00:00.000+10:00,,,LAB,6,mg/L,5,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-07-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-07-03 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-07-03 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-07-03 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2023-07-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-07-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-07-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-07-03 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Chlorophyll - a,2023-07-03 19:16:00.000+10:00,,,LAB,22.3,mg/m^3,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-07-03 19:16:00.000+10:00,,,LAB,138,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-07-03 19:16:00.000+10:00,,,LAB,830,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-07-03 19:16:00.000+10:00,,,LAB,0.003,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-07-03 19:16:00.000+10:00,,,LAB,138,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-07-03 19:16:00.000+10:00,,,LAB,968,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2023-07-03 19:16:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-07-03 19:16:00.000+10:00,,,LAB,0.003,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-07-03 19:16:00.000+10:00,,,LAB,0.003,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-07-03 19:16:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-08-01 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-08-01 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2023-08-01 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrate as N,2023-08-01 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-08-01 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-08-01 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-08-01 12:00:00.000+10:00,,,LAB,0.07,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-08-01 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-08-01 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Chlorophyll - a,2023-08-01 18:40:00.000+10:00,,,LAB,15.2,mg/m^3,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-08-01 18:40:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-08-01 18:40:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-08-01 18:40:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-08-01 18:40:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2023-08-01 18:40:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-09-04 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-09-04 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-09-04 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-09-04 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-09-04 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2023-09-04 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-09-04 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-09-04 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-09-04 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-09-04 18:07:00.000+10:00,,,LAB,830,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2023-09-04 18:07:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-09-04 18:07:00.000+10:00,,,LAB,830,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-09-04 18:07:00.000+10:00,,,LAB,0.023,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-09-04 18:07:00.000+10:00,,,LAB,830,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-09-04 18:07:00.000+10:00,,,LAB,0.023,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-09-04 18:07:00.000+10:00,,,LAB,2,mg/m^3,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-09-04 18:07:00.000+10:00,,,LAB,0.023,mm3/l,,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-09-18 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-09-18 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-09-18 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-09-18 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-09-18 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-09-18 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-09-18 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2023-09-18 12:00:00.000+10:00,,,LAB,5,mg/L,5,-33.7272,150.692296
+FB,Nitrate as N,2023-09-18 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-09-18 19:04:00.000+10:00,,,LAB,0.013,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-09-18 19:04:00.000+10:00,,,LAB,0.013,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-09-18 19:04:00.000+10:00,,,LAB,484,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-09-18 19:04:00.000+10:00,,,LAB,0.013,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-09-18 19:04:00.000+10:00,,,LAB,484,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2023-09-18 19:04:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-09-18 19:04:00.000+10:00,,,LAB,0.9,mg/m^3,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-09-18 19:04:00.000+10:00,,,LAB,484,cells/ml,,-33.7272,150.692296
+FB,Total suspended solids,2023-10-03 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-10-03 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-10-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-10-03 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-10-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-10-03 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-10-03 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-10-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-10-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-10-03 17:07:00.000+10:00,,,LAB,0.014,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2023-10-03 17:07:00.000+10:00,,,LAB,0.014,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-10-03 17:07:00.000+10:00,,,LAB,6.1,mg/m^3,,-33.7272,150.692296
+FB,Microcystis_Cell count,2023-10-03 17:07:00.000+10:00,,,LAB,532,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-10-03 17:07:00.000+10:00,,,LAB,532,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-10-03 17:07:00.000+10:00,,,LAB,532,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2023-10-03 17:07:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-10-03 17:07:00.000+10:00,,,LAB,0.014,mm3/l,,-33.7272,150.692296
+FB,Nitrite as N,2023-10-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-10-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2023-10-16 12:00:00.000+10:00,,,LAB,5,mg/L,5,-33.7272,150.692296
+FB,Nitrate as N,2023-10-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-10-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-10-16 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-10-16 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-10-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-10-16 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-10-16 16:37:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-10-16 16:37:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-10-16 16:37:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2023-10-16 16:37:00.000+10:00,,,LAB,2,cfu/100ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-10-16 16:37:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-10-16 16:37:00.000+10:00,,,LAB,11.8,mg/m^3,,-33.7272,150.692296
+FB,Nitrate as N,2023-10-31 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-10-31 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-10-31 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-10-31 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-10-31 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2023-10-31 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-10-31 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2023-10-31 12:00:00.000+10:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-10-31 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-10-31 19:04:00.000+10:00,,,LAB,1590,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-10-31 19:04:00.000+10:00,,,LAB,0.009,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-10-31 19:04:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2023-10-31 19:04:00.000+10:00,,,LAB,1106,cells/ml,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2023-10-31 19:04:00.000+10:00,,,LAB,0.009,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-10-31 19:04:00.000+10:00,,,LAB,3.6,mg/m^3,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-10-31 19:04:00.000+10:00,,,LAB,484,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-10-31 19:04:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-10-31 19:04:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2023-10-31 19:04:00.000+10:00,,,LAB,6,cfu/100ml,,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-11-13 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-11-13 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-11-13 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2023-11-13 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-11-13 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-11-13 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-11-13 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-11-13 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2023-11-13 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-11-13 16:23:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-11-13 16:23:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-11-13 16:23:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-11-13 16:23:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-11-13 16:23:00.000+10:00,,,LAB,2.2,mg/m^3,,-33.7272,150.692296
+FB,Enterococci,2023-11-13 16:23:00.000+10:00,,,LAB,2,cfu/100ml,,-33.7272,150.692296
+FB,Nitrite as N,2023-11-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-11-27 12:00:00.000+10:00,,,LAB,0.4,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-11-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-11-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-11-27 12:00:00.000+10:00,,,LAB,0.4,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-11-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-11-27 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-11-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2023-11-27 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-11-27 18:16:00.000+10:00,,,LAB,18290,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-11-27 18:16:00.000+10:00,,,LAB,3.9,mg/m^3,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-11-27 18:16:00.000+10:00,,,LAB,0.008,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-11-27 18:16:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-11-27 18:16:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-11-27 18:16:00.000+10:00,,,LAB,18293,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2023-11-27 18:16:00.000+10:00,,,LAB,3,cfu/100ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-11-27 18:16:00.000+10:00,,,LAB,0.008,mm3/l,,-33.7272,150.692296
+FB,Total suspended solids,2023-12-11 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-12-11 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-12-11 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-12-11 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-12-11 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-12-11 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2023-12-11 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-12-11 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-12-11 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-12-11 17:08:00.000+10:00,,,LAB,0.044,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-12-11 17:08:00.000+10:00,,,LAB,89821,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum_Cell count,2023-12-11 17:08:00.000+10:00,,,LAB,272,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-12-11 17:08:00.000+10:00,,,LAB,90090,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-12-11 17:08:00.000+10:00,,,LAB,272,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-12-11 17:08:00.000+10:00,,,LAB,4.5,mg/m^3,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-12-11 17:08:00.000+10:00,,,LAB,0.04,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum_Biovolume,2023-12-11 17:08:00.000+10:00,,,LAB,0.044,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-12-11 17:08:00.000+10:00,,,LAB,0.084,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2023-12-11 17:08:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Total Nitrogen as N,2023-12-27 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2023-12-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2023-12-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2023-12-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2023-12-27 12:00:00.000+10:00,,,LAB,0.06,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2023-12-27 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2023-12-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2023-12-27 12:00:00.000+10:00,,,LAB,6,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2023-12-27 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Enterococci,2023-12-27 15:51:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2023-12-27 15:51:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2023-12-27 15:51:00.000+10:00,,,LAB,28579,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2023-12-27 15:51:00.000+10:00,,,LAB,7.5,mg/m^3,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2023-12-27 15:51:00.000+10:00,,,LAB,0.012,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2023-12-27 15:51:00.000+10:00,,,LAB,28580,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2023-12-27 15:51:00.000+10:00,,,LAB,0.012,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2023-12-27 15:51:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-01-08 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-01-08 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-01-08 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-01-08 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-01-08 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-01-08 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-01-08 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-01-08 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-01-08 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Chlorophyll - a,2024-01-08 16:08:00.000+10:00,,,LAB,4.8,mg/m^3,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-01-08 16:08:00.000+10:00,,,LAB,91650,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-01-08 16:08:00.000+10:00,,,LAB,91650,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-01-08 16:08:00.000+10:00,,,LAB,0.041,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-01-08 16:08:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-01-08 16:08:00.000+10:00,,,LAB,0.041,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2024-01-08 16:08:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-01-08 16:08:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Total suspended solids,2024-01-22 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-01-22 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-01-22 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2024-01-22 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-01-22 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-01-22 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-01-22 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-01-22 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-01-22 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Chlorophyll - a,2024-01-22 16:58:00.000+10:00,,,LAB,10.7,mg/m^3,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-01-22 16:58:00.000+10:00,,,LAB,0.023,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2024-01-22 16:58:00.000+10:00,,,LAB,2804,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-01-22 16:58:00.000+10:00,,,LAB,0.322,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2024-01-22 16:58:00.000+10:00,,,LAB,374,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2024-01-22 16:58:00.000+10:00,,,LAB,0.065,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-01-22 16:58:00.000+10:00,,,LAB,52178,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-01-22 16:58:00.000+10:00,,,LAB,374,cells/ml,,-33.7272,150.692296
+FB,Sphaerospermopsis aphanizomenoides_Cell count,2024-01-22 16:58:00.000+10:00,,,LAB,578,cells/ml,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Biovolume,2024-01-22 16:58:00.000+10:00,,,LAB,0.042,mm3/l,,-33.7272,150.692296
+FB,Sphaerospermopsis aphanizomenoides_Biovolume,2024-01-22 16:58:00.000+10:00,,,LAB,0.021,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2024-01-22 16:58:00.000+10:00,,,LAB,0.152,mm3/l,,-33.7272,150.692296
+FB,Snowella_Cell count,2024-01-22 16:58:00.000+10:00,,,LAB,1325,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2024-01-22 16:58:00.000+10:00,,,LAB,9,cfu/100ml,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2024-01-22 16:58:00.000+10:00,,,LAB,1089,cells/ml,,-33.7272,150.692296
+FB,Snowella_Biovolume,2024-01-22 16:58:00.000+10:00,,,LAB,0.01,mm3/l,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Cell count,2024-01-22 16:58:00.000+10:00,,,LAB,965,cells/ml,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2024-01-22 16:58:00.000+10:00,,,LAB,0.009,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-01-22 16:58:00.000+10:00,,,LAB,0.065,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-01-22 16:58:00.000+10:00,,,LAB,59310,cells/ml,,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-02-05 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2024-02-05 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-02-05 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2024-02-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-02-05 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrate as N,2024-02-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-02-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-02-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-02-05 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2024-02-05 18:00:00.000+10:00,,,LAB,1070,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-02-05 18:00:00.000+10:00,,,LAB,60445,cells/ml,,-33.7272,150.692296
+FB,Pseudanabaena_Biovolume,2024-02-05 18:00:00.000+10:00,,,LAB,0.079,mm3/l,,-33.7272,150.692296
+FB,Pseudanabaena_Cell count,2024-02-05 18:00:00.000+10:00,,,LAB,7920,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-02-05 18:00:00.000+10:00,,,LAB,0.027,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2024-02-05 18:00:00.000+10:00,,,LAB,0.058,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-02-05 18:00:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-02-05 18:00:00.000+10:00,,,LAB,69440,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-02-05 18:00:00.000+10:00,,,LAB,4.7,mg/m^3,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-02-05 18:00:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-02-05 18:00:00.000+10:00,,,LAB,0.164,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2024-02-05 18:00:00.000+10:00,,,LAB,2,cfu/100ml,,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-02-09 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-02-09 12:00:00.000+11:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-02-09 12:00:00.000+11:00,,,LAB,10,mg/L,5,-33.7272,150.692296
+FB,Nitrate as N,2024-02-09 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-02-09 12:00:00.000+11:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-02-09 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-02-09 12:00:00.000+11:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-02-09 12:00:00.000+11:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2024-02-09 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-02-19 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-02-19 12:00:00.000+10:00,,,LAB,0.06,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-02-19 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2024-02-19 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-02-19 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-02-19 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-02-19 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-02-19 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-02-19 12:00:00.000+10:00,,,LAB,0.14,mg/L,0.01,-33.7272,150.692296
+FB,Limnothrix_Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,0.069,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum cf circinale_Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,0.112,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-02-19 18:25:00.000+10:00,,,LAB,85003,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,0.526,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,0.038,mm3/l,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Cell count,2024-02-19 18:25:00.000+10:00,,,LAB,1142,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,0.006,mm3/l,,-33.7272,150.692296
+FB,Snowella_Cell count,2024-02-19 18:25:00.000+10:00,,,LAB,7621,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2024-02-19 18:25:00.000+10:00,,,LAB,5,cfu/100ml,,-33.7272,150.692296
+FB,Dolichospermum flos-aquae_Cell count,2024-02-19 18:25:00.000+10:00,,,LAB,4418,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum perturbatum_Cell count,2024-02-19 18:25:00.000+10:00,,,LAB,4248,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum perturbatum_Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,0.829,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum cf circinale_Cell count,2024-02-19 18:25:00.000+10:00,,,LAB,646,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,2.48,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-02-19 18:25:00.000+10:00,,,LAB,8166,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2024-02-19 18:25:00.000+10:00,,,LAB,119,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-02-19 18:25:00.000+10:00,,,LAB,116900,cells/ml,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,0.118,mm3/l,,-33.7272,150.692296
+FB,Snowella_Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,0.06,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-02-19 18:25:00.000+10:00,,,LAB,13.9,mg/m^3,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,0.227,mm3/l,,-33.7272,150.692296
+FB,Limnothrix_Cell count,2024-02-19 18:25:00.000+10:00,,,LAB,5512,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum flos-aquae_Biovolume,2024-02-19 18:25:00.000+10:00,,,LAB,1.021,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-02-19 18:25:00.000+10:00,,,LAB,15470,cells/ml,,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-03-04 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-03-04 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-03-04 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-03-04 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-03-04 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-03-04 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Ammonia as N,2024-03-04 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-03-04 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2024-03-04 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dolichospermum cf circinale_Cell count,2024-03-04 16:16:00.000+10:00,,,LAB,425,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-03-04 16:16:00.000+10:00,,,LAB,19.4,mg/m^3,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Cell count,2024-03-04 16:16:00.000+10:00,,,LAB,476,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-03-04 16:16:00.000+10:00,,,LAB,0.073,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-03-04 16:16:00.000+10:00,,,LAB,0.038,mm3/l,,-33.7272,150.692296
+FB,Snowella_Cell count,2024-03-04 16:16:00.000+10:00,,,LAB,6532,cells/ml,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Biovolume,2024-03-04 16:16:00.000+10:00,,,LAB,0.021,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-03-04 16:16:00.000+10:00,,,LAB,95100,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-03-04 16:16:00.000+10:00,,,LAB,86228,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2024-03-04 16:16:00.000+10:00,,,LAB,2,cfu/100ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-03-04 16:16:00.000+10:00,,,LAB,425,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-03-04 16:16:00.000+10:00,,,LAB,0.261,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2024-03-04 16:16:00.000+10:00,,,LAB,0.078,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2024-03-04 16:16:00.000+10:00,,,LAB,1443,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum cf circinale_Biovolume,2024-03-04 16:16:00.000+10:00,,,LAB,0.073,mm3/l,,-33.7272,150.692296
+FB,Snowella_Biovolume,2024-03-04 16:16:00.000+10:00,,,LAB,0.051,mm3/l,,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-03-18 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-03-18 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2024-03-18 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-03-18 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-03-18 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-03-18 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-03-18 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-03-18 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-03-18 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-03-18 18:54:00.000+10:00,,,LAB,334700,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,2.72,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-03-18 18:54:00.000+10:00,,,LAB,16.7,mg/m^3,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,136,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.177,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2024-03-18 18:54:00.000+10:00,,,LAB,13,cfu/100ml,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.014,mm3/l,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,935,cells/ml,,-33.7272,150.692296
+FB,Raphidiopsis raciborskii_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,136,cells/ml,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.004,mm3/l,,-33.7272,150.692296
+FB,Planktolyngbya_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.001,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,22428,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.623,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,1019,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.037,mm3/l,,-33.7272,150.692296
+FB,Snowella_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,224040,cells/ml,,-33.7272,150.692296
+FB,Planktolyngbya_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,646,cells/ml,,-33.7272,150.692296
+FB,Snowella_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,1.771,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,969,cells/ml,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,544,cells/ml,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.041,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-03-18 18:54:00.000+10:00,,,LAB,23720,cells/ml,,-33.7272,150.692296
+FB,Raphidiopsis raciborskii_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.003,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.817,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-03-18 18:54:00.000+10:00,,,LAB,83833,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2024-03-18 18:54:00.000+10:00,,,LAB,0.052,mm3/l,,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-04-02 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-04-02 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-04-02 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-04-02 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-04-02 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-04-02 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrite as N,2024-04-02 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-04-02 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-04-02 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Woronichinia_Cell count,2024-04-02 19:03:00.000+10:00,,,LAB,45945,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-04-02 19:03:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2024-04-02 19:03:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Woronichinia_Biovolume,2024-04-02 19:03:00.000+10:00,,,LAB,0.832,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-04-02 19:03:00.000+10:00,,,LAB,79100,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-04-02 19:03:00.000+10:00,,,LAB,0,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2024-04-02 19:03:00.000+10:00,,,LAB,0.042,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2024-04-02 19:03:00.000+10:00,,,LAB,782,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-04-02 19:03:00.000+10:00,,,LAB,0.014,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-04-02 19:03:00.000+10:00,,,LAB,0.888,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-04-02 19:03:00.000+10:00,,,LAB,32376,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-04-02 19:03:00.000+10:00,,,LAB,21.3,mg/m^3,,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-04-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-04-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-04-03 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-04-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-04-03 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-04-03 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-04-03 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-04-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-04-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-04-15 12:00:00.000+10:00,,,LAB,0.1,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-04-15 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-04-15 12:00:00.000+10:00,,,LAB,0.11,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-04-15 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-04-15 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-04-15 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2024-04-15 12:00:00.000+10:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-04-15 12:00:00.000+10:00,,,LAB,0.9,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2024-04-15 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Microcystis species 2_Biovolume,2024-04-15 18:48:00.000+10:00,,,LAB,0.005,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-04-15 18:48:00.000+10:00,,,LAB,340,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2024-04-15 18:48:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-04-15 18:48:00.000+10:00,,,LAB,4590,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-04-15 18:48:00.000+10:00,,,LAB,0.104,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-04-15 18:48:00.000+10:00,,,LAB,0.098,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2024-04-15 18:48:00.000+10:00,,,LAB,0.006,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-04-15 18:48:00.000+10:00,,,LAB,0.093,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-04-15 18:48:00.000+10:00,,,LAB,3440,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-04-15 18:48:00.000+10:00,,,LAB,43,mg/m^3,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-04-15 18:48:00.000+10:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Microcystis species 2_Cell count,2024-04-15 18:48:00.000+10:00,,,LAB,68,cells/ml,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2024-04-15 18:48:00.000+10:00,,,LAB,817,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-04-15 18:48:00.000+10:00,,,LAB,3368,cells/ml,,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-04-29 12:00:00.000+10:00,,,LAB,0.16,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-04-29 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-04-29 12:00:00.000+10:00,,,LAB,0.08,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-04-29 12:00:00.000+10:00,,,LAB,0.12,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-04-29 12:00:00.000+10:00,,,LAB,0.14,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-04-29 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2024-04-29 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrite as N,2024-04-29 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-04-29 12:00:00.000+10:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-04-29 18:24:00.000+10:00,,,LAB,20759,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2024-04-29 18:24:00.000+10:00,,,LAB,3,cfu/100ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-04-29 18:24:00.000+10:00,,,LAB,3.17,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-04-29 18:24:00.000+10:00,,,LAB,51190,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-04-29 18:24:00.000+10:00,,,LAB,30.5,mg/m^3,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-04-29 18:24:00.000+10:00,,,LAB,51190,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-04-29 18:24:00.000+10:00,,,LAB,3.17,mm3/l,,-33.7272,150.692296
+FB,Microcystis species 2_Biovolume,2024-04-29 18:24:00.000+10:00,,,LAB,2.588,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-04-29 18:24:00.000+10:00,,,LAB,0.577,mm3/l,,-33.7272,150.692296
+FB,Microcystis species 2_Cell count,2024-04-29 18:24:00.000+10:00,,,LAB,30430,cells/ml,,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-05-08 12:00:00.000+11:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-05-08 12:00:00.000+11:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-05-08 12:00:00.000+11:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-05-08 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-05-08 12:00:00.000+11:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-05-08 12:00:00.000+11:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2024-05-08 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-05-08 12:00:00.000+11:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2024-05-08 12:00:00.000+11:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-06-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-06-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-06-03 12:00:00.000+10:00,,,LAB,0.9,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2024-06-03 12:00:00.000+10:00,,,LAB,9,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-06-03 12:00:00.000+10:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2024-06-03 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-06-03 12:00:00.000+10:00,,,LAB,0.13,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-06-03 12:00:00.000+10:00,,,LAB,0.06,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-06-03 12:00:00.000+10:00,,,LAB,0.13,mg/L,0.01,-33.7272,150.692296
+FB,Enterococci,2024-06-03 17:34:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2024-06-03 17:34:00.000+10:00,,,LAB,0.144,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-06-03 17:34:00.000+10:00,,,LAB,0.241,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2024-06-03 17:34:00.000+10:00,,,LAB,833,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-06-03 17:34:00.000+10:00,,,LAB,4590,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-06-03 17:34:00.000+10:00,,,LAB,0.097,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-06-03 17:34:00.000+10:00,,,LAB,0.241,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-06-03 17:34:00.000+10:00,,,LAB,4590,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-06-03 17:34:00.000+10:00,,,LAB,3756,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-06-03 17:34:00.000+10:00,,,LAB,49.8,mg/m^3,,-33.7272,150.692296
+FB,Nitrite as N,2024-07-01 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-07-01 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-07-01 12:00:00.000+10:00,,,LAB,7,mg/L,5,-33.7272,150.692296
+FB,Nitrate as N,2024-07-01 12:00:00.000+10:00,,,LAB,0.15,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-07-01 12:00:00.000+10:00,,,LAB,0.15,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-07-01 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2024-07-01 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-07-01 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-07-01 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Merismopedia_Cell count,2024-07-01 18:52:00.000+10:00,,,LAB,544,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-07-01 18:52:00.000+10:00,,,LAB,0.402,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-07-01 18:52:00.000+10:00,,,LAB,2041,cells/ml,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2024-07-01 18:52:00.000+10:00,,,LAB,0.004,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-07-01 18:52:00.000+10:00,,,LAB,4030,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2024-07-01 18:52:00.000+10:00,,,LAB,0.345,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2024-07-01 18:52:00.000+10:00,,,LAB,2,cfu/100ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-07-01 18:52:00.000+10:00,,,LAB,4570,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-07-01 18:52:00.000+10:00,,,LAB,0.053,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-07-01 18:52:00.000+10:00,,,LAB,24.5,mg/m^3,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-07-01 18:52:00.000+10:00,,,LAB,0.398,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2024-07-01 18:52:00.000+10:00,,,LAB,1988,cells/ml,,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-08-05 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2024-08-05 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-08-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-08-05 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2024-08-05 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-08-05 12:00:00.000+10:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-08-05 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-08-05 12:00:00.000+10:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-08-05 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-08-05 19:10:00.000+10:00,,,LAB,0.148,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2024-08-05 19:10:00.000+10:00,,,LAB,26.545,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-08-05 19:10:00.000+10:00,,,LAB,5689,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-08-05 19:10:00.000+10:00,,,LAB,98.9,mg/m^3,,-33.7272,150.692296
+FB,Enterococci,2024-08-05 19:10:00.000+10:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-08-05 19:10:00.000+10:00,,,LAB,26.69,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-08-05 19:10:00.000+10:00,,,LAB,158400,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-08-05 19:10:00.000+10:00,,,LAB,158400,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-08-05 19:10:00.000+10:00,,,LAB,26.69,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2024-08-05 19:10:00.000+10:00,,,LAB,152734,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-08-05 19:10:00.000+11:00,,,LAB,26.69,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-08-05 19:10:00.000+11:00,,,LAB,5689,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-08-05 19:10:00.000+11:00,,,LAB,0.148,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-08-05 19:10:00.000+11:00,,,LAB,158400,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-08-05 19:10:00.000+11:00,,,LAB,98.9,mg/m^3,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2024-08-05 19:10:00.000+11:00,,,LAB,152734,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2024-08-05 19:10:00.000+11:00,,,LAB,26.545,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2024-08-05 19:10:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-08-05 19:10:00.000+11:00,,,LAB,26.69,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-08-05 19:10:00.000+11:00,,,LAB,158400,cells/ml,,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-09-02 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-09-02 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-09-02 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-09-02 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-09-02 12:00:00.000+10:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2024-09-02 12:00:00.000+10:00,,,LAB,10,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-09-02 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-09-02 12:00:00.000+10:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-09-02 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-09-02 12:00:00.000+11:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2024-09-02 12:00:00.000+11:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-09-02 12:00:00.000+11:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-09-02 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-09-02 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-09-02 12:00:00.000+11:00,,,LAB,10,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-09-02 12:00:00.000+11:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2024-09-02 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-09-02 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Enterococci,2024-09-02 19:18:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-09-02 19:18:00.000+11:00,,,LAB,4335,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-09-02 19:18:00.000+11:00,,,LAB,70.4,mg/m^3,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-09-02 19:18:00.000+11:00,,,LAB,76620,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-09-02 19:18:00.000+11:00,,,LAB,12.68,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-09-02 19:18:00.000+11:00,,,LAB,12.68,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-09-02 19:18:00.000+11:00,,,LAB,0.113,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2024-09-02 19:18:00.000+11:00,,,LAB,12.563,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2024-09-02 19:18:00.000+11:00,,,LAB,72286,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-09-02 19:18:00.000+11:00,,,LAB,76620,cells/ml,,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-09-12 12:00:00.000+11:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2024-09-12 12:00:00.000+11:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-09-12 12:00:00.000+11:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-09-12 12:00:00.000+11:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-09-12 12:00:00.000+11:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-09-12 12:00:00.000+11:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2024-09-12 12:00:00.000+11:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-09-12 12:00:00.000+11:00,,,LAB,11,mg/L,5,-33.7272,150.692296
+FB,Nitrite as N,2024-09-12 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-09-16 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-09-16 12:00:00.000+10:00,,,LAB,0.06,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-09-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-09-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-09-16 12:00:00.000+10:00,,,LAB,1.3,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-09-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-09-16 12:00:00.000+10:00,,,LAB,1.3,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2024-09-16 12:00:00.000+10:00,,,LAB,12,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-09-16 12:00:00.000+10:00,,,LAB,0.07,mg/L,0.01,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2024-09-16 19:07:00.000+11:00,,,LAB,104285,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-09-16 19:07:00.000+11:00,,,LAB,42.4,mg/m^3,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-09-16 19:07:00.000+11:00,,,LAB,0.105,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2024-09-16 19:07:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-09-16 19:07:00.000+11:00,,,LAB,18.23,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-09-16 19:07:00.000+11:00,,,LAB,18.23,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-09-16 19:07:00.000+11:00,,,LAB,108300,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-09-16 19:07:00.000+11:00,,,LAB,108300,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2024-09-16 19:07:00.000+11:00,,,LAB,18.124,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-09-16 19:07:00.000+11:00,,,LAB,4042,cells/ml,,-33.7272,150.692296
+FB,Nitrate as N,2024-09-30 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-09-30 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-09-30 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-09-30 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-09-30 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2024-09-30 12:00:00.000+10:00,,,LAB,0.07,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-09-30 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-09-30 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-09-30 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Enterococci,2024-09-30 17:01:00.000+11:00,,,LAB,6,cfu/100ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-09-30 17:01:00.000+11:00,,,LAB,10410,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-09-30 17:01:00.000+11:00,,,LAB,10413,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-09-30 17:01:00.000+11:00,,,LAB,13.7,mg/m^3,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-09-30 17:01:00.000+11:00,,,LAB,0.271,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-09-30 17:01:00.000+11:00,,,LAB,0.271,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-09-30 17:01:00.000+11:00,,,LAB,0.271,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-09-30 17:01:00.000+11:00,,,LAB,10410,cells/ml,,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-10-14 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-10-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-10-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-10-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-10-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-10-14 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-10-14 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2024-10-14 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-10-14 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Chlorophyll - a,2024-10-14 18:06:00.000+11:00,,,LAB,3.2,mg/m^3,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-10-14 18:06:00.000+11:00,,,LAB,8050,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-10-14 18:06:00.000+11:00,,,LAB,0.209,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-10-14 18:06:00.000+11:00,,,LAB,0.209,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-10-14 18:06:00.000+11:00,,,LAB,0.209,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-10-14 18:06:00.000+11:00,,,LAB,8050,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2024-10-14 18:06:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-10-14 18:06:00.000+11:00,,,LAB,8050,cells/ml,,-33.7272,150.692296
+FB,Nitrate as N,2024-10-28 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-10-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-10-28 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-10-28 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-10-28 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-10-28 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-10-28 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-10-28 12:00:00.000+10:00,,,LAB,0.06,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-10-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-10-28 18:53:00.000+11:00,,,LAB,0.179,mm3/l,,-33.7272,150.692296
+FB,Enterococci,2024-10-28 18:53:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-10-28 18:53:00.000+11:00,,,LAB,0.179,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-10-28 18:53:00.000+11:00,,,LAB,15.5,mg/m^3,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-10-28 18:53:00.000+11:00,,,LAB,0.179,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-10-28 18:53:00.000+11:00,,,LAB,6900,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-10-28 18:53:00.000+11:00,,,LAB,6900,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-10-28 18:53:00.000+11:00,,,LAB,6900,cells/ml,,-33.7272,150.692296
+FB,Nitrate as N,2024-11-11 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-11-11 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-11-11 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-11-11 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-11-11 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-11-11 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-11-11 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-11-11 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-11-11 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-11-11 12:00:00.000+11:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-11-11 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-11-11 12:00:00.000+11:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2024-11-11 12:00:00.000+11:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-11-11 12:00:00.000+11:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-11-11 12:00:00.000+11:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-11-11 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-11-11 12:00:00.000+11:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-11-11 12:00:00.000+11:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-11-11 17:53:00.000+11:00,,,LAB,1960,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-11-11 17:53:00.000+11:00,,,LAB,2440,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-11-11 17:53:00.000+11:00,,,LAB,21.46,mg/m^3,,-33.7272,150.692296
+FB,Enterococci,2024-11-11 17:53:00.000+11:00,,,LAB,5,cfu/100ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-11-11 17:53:00.000+11:00,,,LAB,476,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-11-11 17:53:00.000+11:00,,,LAB,0.051,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-11-11 17:53:00.000+11:00,,,LAB,1960,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-11-11 17:53:00.000+11:00,,,LAB,0.051,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-11-11 17:53:00.000+11:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-11-11 17:53:00.000+11:00,,,LAB,0.051,mm3/l,,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-11-25 12:00:00.000+10:00,,,LAB,1.2,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2024-11-25 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-11-25 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-11-25 12:00:00.000+10:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-11-25 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-11-25 12:00:00.000+10:00,,,LAB,1.2,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2024-11-25 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-11-25 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-11-25 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-11-25 17:06:00.000+11:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-11-25 17:06:00.000+11:00,,,LAB,544,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-11-25 17:06:00.000+11:00,,,LAB,0.025,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-11-25 17:06:00.000+11:00,,,LAB,0.014,mm3/l,,-33.7272,150.692296
+FB,Microcystis species 2_Cell count,2024-11-25 17:06:00.000+11:00,,,LAB,136,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-11-25 17:06:00.000+11:00,,,LAB,12.28,mg/m^3,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-11-25 17:06:00.000+11:00,,,LAB,1220,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-11-25 17:06:00.000+11:00,,,LAB,544,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-11-25 17:06:00.000+11:00,,,LAB,0.025,mm3/l,,-33.7272,150.692296
+FB,Microcystis species 2_Biovolume,2024-11-25 17:06:00.000+11:00,,,LAB,0.011,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-11-25 17:06:00.000+11:00,,,LAB,680,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2024-11-25 17:06:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Nitrate as N,2024-12-09 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2024-12-09 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-12-09 12:00:00.000+10:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-12-09 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-12-09 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2024-12-09 12:00:00.000+10:00,,,LAB,11,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-12-09 12:00:00.000+10:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2024-12-09 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-12-09 12:00:00.000+10:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Enterococci,2024-12-09 18:02:00.000+11:00,,,LAB,2,cfu/100ml,,-33.7272,150.692296
+FB,Microcystis species 2_Biovolume,2024-12-09 18:02:00.000+11:00,,,LAB,0.034,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-12-09 18:02:00.000+11:00,,,LAB,0.119,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-12-09 18:02:00.000+11:00,,,LAB,0.153,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-12-09 18:02:00.000+11:00,,,LAB,51.83,mg/m^3,,-33.7272,150.692296
+FB,Pseudanabaena_Cell count,2024-12-09 18:02:00.000+11:00,,,LAB,68,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-12-09 18:02:00.000+11:00,,,LAB,4600,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-12-09 18:02:00.000+11:00,,,LAB,0.153,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-12-09 18:02:00.000+11:00,,,LAB,5080,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-12-09 18:02:00.000+11:00,,,LAB,5010,cells/ml,,-33.7272,150.692296
+FB,Microcystis species 2_Cell count,2024-12-09 18:02:00.000+11:00,,,LAB,408,cells/ml,,-33.7272,150.692296
+FB,Pseudanabaena_Biovolume,2024-12-09 18:02:00.000+11:00,,,LAB,0,mm3/l,,-33.7272,150.692296
+FB,Total suspended solids,2024-12-23 12:00:00.000+10:00,,,LAB,9,mg/L,5,-33.7272,150.692296
+FB,Ammonia as N,2024-12-23 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2024-12-23 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2024-12-23 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2024-12-23 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2024-12-23 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2024-12-23 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2024-12-23 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2024-12-23 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2024-12-23 17:21:00.000+11:00,,,LAB,16290,cells/ml,,-33.7272,150.692296
+FB,Chlorophyll - a,2024-12-23 17:21:00.000+11:00,,,LAB,11.52,mg/m^3,,-33.7272,150.692296
+FB,Total Cyanobacteria,2024-12-23 17:21:00.000+11:00,,,LAB,29280,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2024-12-23 17:21:00.000+11:00,,,LAB,10390,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2024-12-23 17:21:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Pseudanabaena mucicola_Biovolume,2024-12-23 17:21:00.000+11:00,,,LAB,0.013,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2024-12-23 17:21:00.000+11:00,,,LAB,0.4,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2024-12-23 17:21:00.000+11:00,,,LAB,0.084,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2024-12-23 17:21:00.000+11:00,,,LAB,0.504,mm3/l,,-33.7272,150.692296
+FB,Pseudanabaena mucicola_Cell count,2024-12-23 17:21:00.000+11:00,,,LAB,1034,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2024-12-23 17:21:00.000+11:00,,,LAB,0.007,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2024-12-23 17:21:00.000+11:00,,,LAB,1565,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2024-12-23 17:21:00.000+11:00,,,LAB,8002,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2024-12-23 17:21:00.000+11:00,,,LAB,0.208,mm3/l,,-33.7272,150.692296
+FB,Microcystis aeruginosa_Cell count,2024-12-23 17:21:00.000+11:00,,,LAB,2388,cells/ml,,-33.7272,150.692296
+FB,Microcystis aeruginosa_Biovolume,2024-12-23 17:21:00.000+11:00,,,LAB,0.192,mm3/l,,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-01-06 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-01-06 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-01-06 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-01-06 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2025-01-06 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-01-06 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-01-06 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-01-06 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-01-06 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Microcystis_Biovolume,2025-01-06 16:29:00.000+11:00,,,LAB,0.099,mm3/l,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Cell count,2025-01-06 16:29:00.000+11:00,,,LAB,85,cells/ml,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2025-01-06 16:29:00.000+11:00,,,LAB,0.253,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2025-01-06 16:29:00.000+11:00,,,LAB,4300,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2025-01-06 16:29:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Microcystis_Cell count,2025-01-06 16:29:00.000+11:00,,,LAB,3811,cells/ml,,-33.7272,150.692296
+FB,Snowella_Cell count,2025-01-06 16:29:00.000+11:00,,,LAB,2722,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2025-01-06 16:29:00.000+11:00,,,LAB,0.024,mm3/l,,-33.7272,150.692296
+FB,Chlorophyll - a,2025-01-06 16:29:00.000+11:00,,,LAB,10.36,mg/m^3,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2025-01-06 16:29:00.000+11:00,,,LAB,0.152,mm3/l,,-33.7272,150.692296
+FB,Snowella_Biovolume,2025-01-06 16:29:00.000+11:00,,,LAB,0.021,mm3/l,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Cell count,2025-01-06 16:29:00.000+11:00,,,LAB,1274,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2025-01-06 16:29:00.000+11:00,,,LAB,53525,cells/ml,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Biovolume,2025-01-06 16:29:00.000+11:00,,,LAB,0.008,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum_Cell count,2025-01-06 16:29:00.000+11:00,,,LAB,272,cells/ml,,-33.7272,150.692296
+FB,Microcystis species 2_Cell count,2025-01-06 16:29:00.000+11:00,,,LAB,136,cells/ml,,-33.7272,150.692296
+FB,Microcystis species 2_Biovolume,2025-01-06 16:29:00.000+11:00,,,LAB,0.011,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum_Biovolume,2025-01-06 16:29:00.000+11:00,,,LAB,0.034,mm3/l,,-33.7272,150.692296
+FB,Total Cyanobacteria,2025-01-06 16:29:00.000+11:00,,,LAB,61830,cells/ml,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Biovolume,2025-01-06 16:29:00.000+11:00,,,LAB,0.056,mm3/l,,-33.7272,150.692296
+FB,Total suspended solids,2025-01-20 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-01-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-01-20 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2025-01-20 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-01-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-01-20 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-01-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-01-20 12:00:00.000+10:00,,,LAB,0.08,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-01-20 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Chlorophyll - a,2025-01-20 17:17:00.000+11:00,,,LAB,12.51,mg/m^3,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,73770,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2025-01-20 17:17:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,1930,cells/ml,,-33.7272,150.692296
+FB,Pseudanabaena mucicola_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,1306,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.033,mm3/l,,-33.7272,150.692296
+FB,Non toxic Aphanizomenonaceae_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.085,mm3/l,,-33.7272,150.692296
+FB,Raphidiopsis raciborskii_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.009,mm3/l,,-33.7272,150.692296
+FB,Snowella_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,15553,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,459,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.09,mm3/l,,-33.7272,150.692296
+FB,Raphidiopsis raciborskii_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,323,cells/ml,,-33.7272,150.692296
+FB,Snowella_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.122,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,2177,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,1665,cells/ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2025-01-20 17:17:00.000+11:00,,,LAB,105400,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.079,mm3/l,,-33.7272,150.692296
+FB,Pseudanabaena mucicola_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.016,mm3/l,,-33.7272,150.692296
+FB,Microcystis_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,4491,cells/ml,,-33.7272,150.692296
+FB,Microcystis_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.117,mm3/l,,-33.7272,150.692296
+FB,Microcystis aeruginosa_Cell count,2025-01-20 17:17:00.000+11:00,,,LAB,3715,cells/ml,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.018,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2025-01-20 17:17:00.000+11:00,,,LAB,8990,cells/ml,,-33.7272,150.692296
+FB,Microcystis aeruginosa_Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.298,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.503,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2025-01-20 17:17:00.000+11:00,,,LAB,0.867,mm3/l,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.157,mm3/l,,-33.7272,150.692296
+FB,Cyanobacteria Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.859,mm3/l,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.337,mm3/l,,-33.7272,150.692296
+FB,Dolichospermum circinale_Cell count,2025-01-28 14:26:00.000+11:00,,,LAB,510,cells/ml,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.073,mm3/l,,-33.7272,150.692296
+FB,Romeria_Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.004,mm3/l,,-33.7272,150.692296
+FB,Coccoid Blue Green Picoplankton_Cell count,2025-01-28 14:26:00.000+11:00,,,LAB,163855,cells/ml,,-33.7272,150.692296
+FB,Microcystis aeruginosa_Cell count,2025-01-28 14:26:00.000+11:00,,,LAB,1143,cells/ml,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.158,mm3/l,,-33.7272,150.692296
+FB,Merismopedia_Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.042,mm3/l,,-33.7272,150.692296
+FB,Romeria_Cell count,2025-01-28 14:26:00.000+11:00,,,LAB,726,cells/ml,,-33.7272,150.692296
+FB,Potentially Toxic Cyanobacteria,2025-01-28 14:26:00.000+11:00,,,LAB,3180,cells/ml,,-33.7272,150.692296
+FB,Cuspidothrix issatschenkoi_Cell count,2025-01-28 14:26:00.000+11:00,,,LAB,2903,cells/ml,,-33.7272,150.692296
+FB,Dolichospermum circinale_Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.088,mm3/l,,-33.7272,150.692296
+FB,Snowella_Cell count,2025-01-28 14:26:00.000+11:00,,,LAB,31138,cells/ml,,-33.7272,150.692296
+FB,Aphanizomenonaceae_Cell count,2025-01-28 14:26:00.000+11:00,,,LAB,1529,cells/ml,,-33.7272,150.692296
+FB,Enterococci,2025-01-28 14:26:00.000+11:00,,,LAB,1,cfu/100ml,,-33.7272,150.692296
+FB,Total Cyanobacteria,2025-01-28 14:26:00.000+11:00,,,LAB,206900,cells/ml,,-33.7272,150.692296
+FB,Merismopedia_Cell count,2025-01-28 14:26:00.000+11:00,,,LAB,5081,cells/ml,,-33.7272,150.692296
+FB,Snowella_Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.246,mm3/l,,-33.7272,150.692296
+FB,Microcystis aeruginosa_Biovolume,2025-01-28 14:26:00.000+11:00,,,LAB,0.091,mm3/l,,-33.7272,150.692296
+FB,Nitrate as N,2025-02-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-02-03 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-02-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-02-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-02-03 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-02-03 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-02-03 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-02-03 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-02-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-02-17 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-02-17 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-02-17 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-02-17 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2025-02-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-02-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-02-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-02-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-02-17 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-03-02 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-03-02 12:00:00.000+11:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2025-03-02 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-03-02 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-03-02 12:00:00.000+11:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-03-02 12:00:00.000+11:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2025-03-02 12:00:00.000+11:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-03-02 12:00:00.000+11:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-03-02 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-03-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-03-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-03-03 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Ammonia as N,2025-03-03 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-03-03 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-03-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-03-03 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2025-03-03 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-03-03 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-03-17 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-03-17 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2025-03-17 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-03-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-03-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-03-17 12:00:00.000+10:00,,,LAB,7,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-03-17 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-03-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-03-17 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-03-31 12:00:00.000+10:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-03-31 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-03-31 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-03-31 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-03-31 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2025-03-31 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-03-31 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-03-31 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-03-31 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-04-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-04-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-04-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-04-14 12:00:00.000+10:00,,,LAB,7,mg/L,5,-33.7272,150.692296
+FB,Ammonia as N,2025-04-14 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-04-14 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-04-14 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2025-04-14 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-04-14 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-04-28 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-04-28 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-04-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-04-28 12:00:00.000+10:00,,,LAB,0.06,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-04-28 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-04-28 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2025-04-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-04-28 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-04-28 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2025-05-12 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-05-12 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-05-12 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-05-12 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrate as N,2025-05-12 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-05-12 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-05-12 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-05-12 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-05-12 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-06-01 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-06-01 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-06-01 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-06-01 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-06-01 12:00:00.000+11:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Ammonia as N,2025-06-01 12:00:00.000+11:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-06-01 12:00:00.000+11:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-06-01 12:00:00.000+11:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-06-01 12:00:00.000+11:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2025-06-02 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-06-02 12:00:00.000+10:00,,,LAB,0.07,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-06-02 12:00:00.000+10:00,,,LAB,10,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-06-02 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-06-02 12:00:00.000+10:00,,,LAB,0.1,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-06-02 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-06-02 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-06-02 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-06-02 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-07-07 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-07-07 12:00:00.000+10:00,,,LAB,0.31,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-07-07 12:00:00.000+10:00,,,LAB,0.06,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-07-07 12:00:00.000+10:00,,,LAB,0.34,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-07-07 12:00:00.000+10:00,,,LAB,0.06,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-07-07 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-07-07 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-07-07 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-07-07 12:00:00.000+10:00,,,LAB,0.9,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-08-04 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-08-04 12:00:00.000+10:00,,,LAB,0.08,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-08-04 12:00:00.000+10:00,,,LAB,0.9,mg/L,0.1,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-08-04 12:00:00.000+10:00,,,LAB,1.2,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2025-08-04 12:00:00.000+10:00,,,LAB,0.14,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-08-04 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrate as N,2025-08-04 12:00:00.000+10:00,,,LAB,0.23,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-08-04 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-08-04 12:00:00.000+10:00,,,LAB,0.26,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-09-01 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2025-09-01 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-09-01 12:00:00.000+10:00,,,LAB,0.22,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-09-01 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-09-01 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-09-01 12:00:00.000+10:00,,,LAB,0.21,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-09-01 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2025-09-01 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-09-01 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Ammonia as N,2025-09-15 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-09-15 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2025-09-15 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-09-15 12:00:00.000+10:00,,,LAB,0.1,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-09-15 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-09-15 12:00:00.000+10:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-09-15 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-09-15 12:00:00.000+10:00,,,LAB,0.7,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2025-09-15 12:00:00.000+10:00,,,LAB,0.08,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-09-29 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-09-29 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2025-09-29 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-09-29 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-09-29 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-09-29 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-09-29 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-09-29 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-09-29 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-10-13 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-10-13 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-10-13 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-10-13 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-10-13 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-10-13 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-10-13 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-10-13 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-10-13 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-10-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-10-27 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-10-27 12:00:00.000+10:00,,,LAB,0.6,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-10-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-10-27 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-10-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-10-27 12:00:00.000+10:00,,,LAB,6,mg/L,5,-33.7272,150.692296
+FB,Nitrite as N,2025-10-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-10-27 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2025-11-10 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-11-10 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-11-10 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2025-11-10 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-11-10 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-11-10 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-11-10 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-11-10 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-11-10 12:00:00.000+10:00,,,LAB,0.5,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2025-11-24 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2025-11-24 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2025-11-24 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2025-11-24 12:00:00.000+10:00,,,LAB,0.4,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2025-11-24 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2025-11-24 12:00:00.000+10:00,,,LAB,0.4,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2025-11-24 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2025-11-24 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2025-11-24 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2026-01-19 12:00:00.000+10:00,,,LAB,1.6,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2026-01-19 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2026-01-19 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2026-01-19 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2026-01-19 12:00:00.000+10:00,,,LAB,25,mg/L,5,-33.7272,150.692296
+FB,Ammonia as N,2026-01-19 12:00:00.000+10:00,,,LAB,0.09,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2026-01-19 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2026-01-19 12:00:00.000+10:00,,,LAB,0.08,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2026-01-19 12:00:00.000+10:00,,,LAB,1.6,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2026-02-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2026-02-16 12:00:00.000+10:00,,,LAB,12,mg/L,5,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2026-02-16 12:00:00.000+10:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2026-02-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2026-02-16 12:00:00.000+10:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite as N,2026-02-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2026-02-16 12:00:00.000+10:00,,,LAB,0.15,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2026-02-16 12:00:00.000+10:00,,,LAB,0.07,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2026-02-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2026-03-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2026-03-16 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2026-03-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2026-03-16 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrate as N,2026-03-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2026-03-16 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2026-03-16 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2026-03-16 12:00:00.000+10:00,,,LAB,0.8,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2026-03-16 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2026-03-30 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2026-03-30 12:00:00.000+10:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2026-03-30 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2026-03-30 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2026-03-30 12:00:00.000+10:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Ammonia as N,2026-03-30 12:00:00.000+10:00,,,LAB,0.44,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2026-03-30 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2026-03-30 12:00:00.000+10:00,,,LAB,6,mg/L,5,-33.7272,150.692296
+FB,Nitrite as N,2026-03-30 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2026-04-13 12:00:00.000+10:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Nitrate as N,2026-04-13 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2026-04-13 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2026-04-13 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2026-04-13 12:00:00.000+10:00,,,LAB,0.45,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2026-04-13 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2026-04-13 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2026-04-13 12:00:00.000+10:00,,,LAB,1.1,mg/L,0.1,-33.7272,150.692296
+FB,Total suspended solids,2026-04-13 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Total suspended solids,2026-04-28 12:00:00.000+10:00,,,LAB,,mg/L,5,-33.7272,150.692296
+FB,Nitrite as N,2026-04-28 12:00:00.000+10:00,,,LAB,0.01,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2026-04-28 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2026-04-28 12:00:00.000+10:00,,,LAB,0.04,mg/L,0.01,-33.7272,150.692296
+FB,Total Nitrogen as N,2026-04-28 12:00:00.000+10:00,,,LAB,1.2,mg/L,0.1,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2026-04-28 12:00:00.000+10:00,,,LAB,1.2,mg/L,0.1,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2026-04-28 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2026-04-28 12:00:00.000+10:00,,,LAB,0.26,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2026-04-28 12:00:00.000+10:00,,,LAB,0.03,mg/L,0.01,-33.7272,150.692296
+FB,Total Kjeldahl Nitrogen as N,2026-06-07 12:00:00.000+10:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Total Nitrogen as N,2026-06-07 12:00:00.000+10:00,,,LAB,1,mg/L,0.1,-33.7272,150.692296
+FB,Nitrite + Nitrate as N,2026-06-07 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total suspended solids,2026-06-07 12:00:00.000+10:00,,,LAB,9,mg/L,5,-33.7272,150.692296
+FB,Dissolved Reactive Phosphorus as P,2026-06-07 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Nitrite as N,2026-06-07 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
+FB,Total Phosphorus as P,2026-06-07 12:00:00.000+10:00,,,LAB,0.05,mg/L,0.01,-33.7272,150.692296
+FB,Ammonia as N,2026-06-07 12:00:00.000+10:00,,,LAB,0.02,mg/L,0.01,-33.7272,150.692296
+FB,Nitrate as N,2026-06-07 12:00:00.000+10:00,,,LAB,,mg/L,0.01,-33.7272,150.692296
